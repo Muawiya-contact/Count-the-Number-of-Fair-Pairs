@@ -70,5 +70,5 @@ print(solution.countFairPairs([1, 7, 9, 2, 5], 11, 11))   # Output: 1
 - Time	O(n log n)
 - Space	O(1) (excluding sort)
 
-# ✨ Created by <a href="http//:youtube.come//@Coding_Moves/>Coding Moves</a>
+# ✨ Created by <a href="https//:www.youtube.come//@Coding_Moves/">Coding Moves</a>
 Empowering coders to move with purpose 💻🔥
